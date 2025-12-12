@@ -22,7 +22,7 @@ ${\textsf{\color{#9b9b9b}O2 / 28}}$
 <br> 
 
 
-![imagine alt](https://github.com/koirinsdiary/test-decorations-/blob/7f65a8fd7614886a152bde7dd5d24b52bea58d1b/88cd71ffca15ea0e26b409fe5de2842c.jpg)
+![imagine alt](https://github.com/koirinsdiary/koirinsdiary/blob/577e56009f5ca35f697694254502eb15ff4444c8/a905b009eaa75fc12ae24202875ef05a.jpg)
 
 
 
