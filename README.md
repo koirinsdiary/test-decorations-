@@ -22,27 +22,15 @@ ${\textsf{\color{#94453b}O2 / 28}}$
 <br> 
 
 ${\textsf{\color{#94453b}this is on wip 0-0}}$ 
-<b3>
-<b3>
-<b3>
-<b3>
-<b3>
-<b3>
-<b3>
-<b3>
 
 
 
 
+# ${\textsf{\color{#94453b}── .✦ㅤㅤㅤVEIL MANGA [🎴]ㅤALEKSANDERㅤ:ㅤ (˶ˆᗜˆ˵) ㅤˎˊ˗}}$
 
 
+<img src="https://github.com/koirinsdiary/koirinsdiary/blob/09e848535e55296db743cf70c7f849b50d0791d3/image.png" align="center" width="400" height="600"></a>
 
-
-
-
-# ${\textsf{\color{#94453b}── .✦ㅤㅤㅤVEIL MANGA [🎴]ㅤALEKSANDERㅤ:ㅤ ˙𐃷˙ ㅤˎˊ˗}}$
-
-![imagine alt](https://github.com/koirinsdiary/koirinsdiary/blob/09e848535e55296db743cf70c7f849b50d0791d3/image.png)
 
 
 
