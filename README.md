@@ -12,16 +12,16 @@
 <br>
 <br>
 
-# ${\textsf{\color{#9b9b9b}KOIRIN  }}$
+# ${\textsf{\color{#94453b}KOIRIN  }}$
   </div>
   
   <div align="center">
   
 
-${\textsf{\color{#9b9b9b}O2 / 28}}$ 
+${\textsf{\color{#94453b}O2 / 28}}$ 
 <br> 
 
-${\textsf{\color{#9b9b9b}this is on wip 0-0}}$ 
+${\textsf{\color{#94453b}this is on wip 0-0}}$ 
 
 ![imagine alt](https://github.com/koirinsdiary/koirinsdiary/blob/577e56009f5ca35f697694254502eb15ff4444c8/a905b009eaa75fc12ae24202875ef05a.jpg)
 
