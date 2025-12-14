@@ -22,7 +22,7 @@
 ${\textsf{\color{#94453b}O2 / 28}}$ 
 <br> 
 
-${\textsf{\color{#94453b}this is on wip 0-0}}$ 
+${\textsf{\color{#94453b}I own VLDC ( VEIL OF DECEPTION ) masquerade themed mafia (๑ᵔ⤙ᵔ๑)}}$ 
 
 
 ![](https://komarev.com/ghpvc/?username=koirinsdiary&label=orcas&style=plastic&color=3e3631)
